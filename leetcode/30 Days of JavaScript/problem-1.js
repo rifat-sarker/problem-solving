@@ -1,4 +1,6 @@
-/*Write a function createHelloWorld. It should return a new function that always returns "Hello World".
+/* Create Hello World Function
+
+Write a function createHelloWorld. It should return a new function that always returns "Hello World".
 
 Example 1:
 
@@ -23,9 +25,6 @@ Any arguments could be passed to the function but it should still always return 
 Constraints:
 
 0 <= args.length <= 10 */
-
-
-
 
 // solution
 var createHelloWorld = function () {
